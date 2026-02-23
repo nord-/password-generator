@@ -2,7 +2,7 @@
 
 Genererar starka och minnesvärda lösenord i XKCD-stil ("correct horse battery staple").
 
-**[Prova live →](https://nord-.github.io/password-generator/)**
+**[Prova live →](https://nord-.github.io/password-generator/password-generator.html)**
 
 ## Funktioner
 
